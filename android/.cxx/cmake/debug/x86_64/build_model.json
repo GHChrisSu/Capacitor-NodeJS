@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx\\cmake\\debug\\x86_64",
-    "cmakeServerLogFile": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx\\cmake\\debug\\x86_64\\cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx\\cxx\\debug\\x86_64",
+    "cmakeArtifactsBaseFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/.cxx/cmake/debug/x86_64",
+    "cmakeServerLogFile": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/.cxx/cmake/debug/x86_64/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/.cxx/cxx/debug/x86_64",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,21 +15,17 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx\\cmake\\debug\\x86_64",
-      "cmakeToolchain": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
-      "cmakeExecutable": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+      "buildRoot": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/.cxx/cmake/debug/x86_64",
+      "cmakeToolchain": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
-        {
-          "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx\\cmake\\debug\\prefab\\x86_64\\prefab"
-        },
         {
           "name": "CMAKE_BUILD_TYPE",
           "value": "Debug"
         },
         {
           "name": "CMAKE_TOOLCHAIN_FILE",
-          "value": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake"
+          "value": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake"
         },
         {
           "name": "ANDROID_ABI",
@@ -37,7 +33,7 @@
         },
         {
           "name": "ANDROID_NDK",
-          "value": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462"
+          "value": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529"
         },
         {
           "name": "ANDROID_PLATFORM",
@@ -49,7 +45,7 @@
         },
         {
           "name": "CMAKE_ANDROID_NDK",
-          "value": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462"
+          "value": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529"
         },
         {
           "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
@@ -57,11 +53,11 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\build\\intermediates\\cmake\\debug\\obj\\x86_64"
+          "value": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/build/intermediates/cmake/debug/obj/x86_64"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
-          "value": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+          "value": "/Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
         },
         {
           "name": "CMAKE_SYSTEM_NAME",
@@ -78,20 +74,19 @@
       ]
     }
   },
-  "cxxBuildFolder": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx\\cmake\\debug\\x86_64",
+  "cxxBuildFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/.cxx/cmake/debug/x86_64",
   "info": {
     "abi": "X86_64",
     "bitness": 64,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx\\cmake\\debug\\x86_64",
+  "originalCxxBuildFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/.cxx/cmake/debug/x86_64",
   "variant": {
     "buildSystemArgumentList": [
       "-DANDROID_STL\u003dc++_shared"
     ],
     "buildTargetSet": [],
-    "implicitBuildTargetSet": [],
     "cFlagsList": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "cppFlagsList": [
@@ -101,24 +96,24 @@
     "module": {
       "buildSystem": "CMAKE",
       "cmake": {
-        "cmakeExe": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+        "cmakeExe": "/Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
         "minimumCmakeVersion": "3.10.2",
-        "ninjaExe": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+        "ninjaExe": "/Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
       },
-      "cmakeToolchainFile": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
-      "cxxFolder": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx",
+      "cmakeToolchainFile": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cxxFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/.cxx",
       "gradleModulePathName": ":capacitor-nodejs",
-      "intermediatesFolder": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\build\\intermediates",
-      "makeFile": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\CMakeLists.txt",
-      "moduleBuildFile": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\build.gradle",
-      "moduleRootFolder": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android",
+      "intermediatesFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/build/intermediates",
+      "makeFile": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/CMakeLists.txt",
+      "moduleBuildFile": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/build.gradle",
+      "moduleRootFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462",
+      "ndkFolder": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529",
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -147,7 +142,7 @@
       ],
       "ndkMetaPlatforms": {
         "min": 16,
-        "max": 29,
+        "max": 30,
         "aliases": {
           "20": 19,
           "25": 24,
@@ -163,7 +158,8 @@
           "O": 26,
           "O-MR1": 27,
           "P": 28,
-          "Q": 29
+          "Q": 29,
+          "R": 30
         }
       },
       "ndkSupportedAbiList": [
@@ -172,41 +168,36 @@
         "X86",
         "X86_64"
       ],
-      "ndkDefaultStl": "LIBCXX_STATIC",
-      "ndkVersion": "21.1.6352462",
+      "ndkVersion": "21.4.7075529",
       "project": {
-        "compilerSettingsCacheFolder": "C:\\Users\\reneh\\Desktop\\Test\\android\\.cxx",
-        "cxxFolder": "C:\\Users\\reneh\\Desktop\\Test\\android\\.cxx",
+        "compilerSettingsCacheFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/android/.cxx",
+        "cxxFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/android/.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "C:\\Users\\reneh\\Desktop\\Test\\android",
-        "sdkFolder": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk",
-        "isPrefabEnabled": false
+        "rootBuildGradleFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/android",
+        "sdkFolder": "/Users/suhao/Library/Android/sdk"
       },
       "splitsAbiFilterSet": [],
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
-          "ARM64_V8A": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
-          "X86": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
-          "X86_64": "C:\\Users\\reneh\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+          "ARMEABI_V7A": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/suhao/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       }
     },
-    "objFolder": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\build\\intermediates\\cmake\\debug\\obj",
+    "objFolder": "/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/build/intermediates/cmake/debug/obj",
     "variantName": "debug",
     "validAbiList": [
       "ARMEABI_V7A",
       "ARM64_V8A",
       "X86",
       "X86_64"
-    ],
-    "prefabDirectory": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx\\cmake\\debug\\prefab",
-    "prefabPackageDirectoryList": []
-  },
-  "prefabFolder": "C:\\Users\\reneh\\Desktop\\Capacitor-NodeJS\\android\\.cxx\\cmake\\debug\\prefab\\x86_64"
+    ]
+  }
 }

@@ -1,4 +1,4 @@
 # ninja log v5
-1	961	642686474	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	17debc686bb481bb
-21	1404	642686475	CMakeFiles/native-lib.dir/src/main/cpp/Bridge.cpp.o	68c7b9d9e0c3580e
-1406	1681	642686475	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	f8d92d526ab9095
+1	1314	1622360593	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	5cb7b7f811a1c40a
+3	1636	1622360593	CMakeFiles/native-lib.dir/src/main/cpp/bridge.cpp.o	81fba753f1bf0376
+1636	1810	1622360593	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	ce0d2639c252646a

@@ -1,0 +1,7 @@
+Executable : /Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/suhao/GitHub/nodejs_mobile/src-capacitor/node_modules/capacitor-nodejs/android/.cxx/cmake/debug/armeabi-v7a
+native-lib
+jvmArgs : 
+

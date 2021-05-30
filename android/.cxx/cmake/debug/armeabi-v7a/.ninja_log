@@ -1,0 +1,4 @@
+# ninja log v5
+0	596	1622360594	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	becacde43bd5904e
+0	993	1622360594	CMakeFiles/native-lib.dir/src/main/cpp/bridge.cpp.o	e05b92fa15beb232
+993	1160	1622360594	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	682f9ffad2092197
